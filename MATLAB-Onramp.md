@@ -1,4 +1,3 @@
-# All my notes from MATLAB Onramp are being stored in this .txt file. DO NOT copy or share unless you have my written consent. Thanks!
 # [MATLAB Courses and Learning Paths](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 
 
@@ -67,3 +66,20 @@
 - MATLAB Desktop and Editor:
   - 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# All my notes from MATLAB Onramp are being stored in this .txt file. DO NOT copy or share unless you have my written consent. Thanks!
