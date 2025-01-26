@@ -82,4 +82,4 @@
 
 
 
-# All my notes from MATLAB Onramp are being stored in this .txt file. DO NOT copy or share unless you have my written consent. Thanks!
+# All my notes from MATLAB Onramp are stored in this file. DO NOT copy or share unless you have my written consent. Thanks!
